@@ -1,0 +1,23 @@
+.imageContainer {
+  margin: 20px;
+  display: grid;
+  place-items: center;
+  position: relative;
+}
+
+.imageThumb {
+  width: 40%;
+  margin: 0;
+}
+
+.imageAuthor {
+  margin: 5px;
+}
+
+.button__icon {
+  position: absolute;
+  right: 30%;
+  top: 0%;
+  background: transparent;
+  border: none;
+}

@@ -1,0 +1,13 @@
+main {
+  display: grid;
+  place-items: center;
+}
+
+.button__randomimage {
+  background: hotpink;
+  color: chartreuse;
+  padding: 1rem;
+  margin: 1rem;
+  border: solid 3px blueviolet;
+  border-radius: 10px;
+}
